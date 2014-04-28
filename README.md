@@ -8,6 +8,10 @@ download appWallets-iOS-sdk-demo
   Usage
   --
   
+  add MediaPlayerframework,AdSupport.framework into your project.
+  
+  
+  
   ```javascript
   #import "AppwalletsClient.h"
   ...
