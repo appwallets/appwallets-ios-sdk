@@ -5,8 +5,9 @@ download appWallets-iOS-sdk-demo
 
   copy `libappwalletsSDK.a` , `AppwalletsClient.h` files into your own project.
   
-  Usage
-  --
+  
+Usage
+--
   
   add MediaPlayerframework,AdSupport.framework into your project.
   
