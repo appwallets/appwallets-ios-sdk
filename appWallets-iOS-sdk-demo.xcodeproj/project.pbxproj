@@ -37,23 +37,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CB4421E918ED48A900F3AEBC /* appWalletsdemo2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appWalletsdemo2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB4421E918ED48A900F3AEBC /* appWallets-iOS-sdk-demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "appWallets-iOS-sdk-demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB4421EC18ED48A900F3AEBC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CB4421EE18ED48A900F3AEBC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		CB4421F018ED48A900F3AEBC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		CB4421F418ED48A900F3AEBC /* appWalletsdemo2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "appWalletsdemo2-Info.plist"; sourceTree = "<group>"; };
+		CB4421F418ED48A900F3AEBC /* appWallets-iOS-sdk-demo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "appWallets-iOS-sdk-demo-Info.plist"; sourceTree = "<group>"; };
 		CB4421F618ED48A900F3AEBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CB4421F818ED48A900F3AEBC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		CB4421FA18ED48A900F3AEBC /* appWalletsdemo2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "appWalletsdemo2-Prefix.pch"; sourceTree = "<group>"; };
+		CB4421FA18ED48A900F3AEBC /* appWallets-iOS-sdk-demo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "appWallets-iOS-sdk-demo-Prefix.pch"; sourceTree = "<group>"; };
 		CB4421FB18ED48A900F3AEBC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CB4421FC18ED48A900F3AEBC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		CB4421FF18ED48A900F3AEBC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CB44220118ED48A900F3AEBC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		CB44220218ED48A900F3AEBC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		CB44220418ED48A900F3AEBC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		CB44220A18ED48A900F3AEBC /* appWalletsdemo2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appWalletsdemo2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB44220A18ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "appWallets-iOS-sdk-demoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB44220B18ED48A900F3AEBC /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		CB44221318ED48A900F3AEBC /* appWalletsdemo2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "appWalletsdemo2Tests-Info.plist"; sourceTree = "<group>"; };
+		CB44221318ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "appWallets-iOS-sdk-demoTests-Info.plist"; sourceTree = "<group>"; };
 		CB44221518ED48A900F3AEBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CB44221718ED48A900F3AEBC /* appWalletsdemo2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = appWalletsdemo2Tests.m; sourceTree = "<group>"; };
 		CB44222218ED48F700F3AEBC /* AppwalletsClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppwalletsClient.h; sourceTree = "<group>"; };
@@ -93,8 +93,8 @@
 		CB4421E018ED48A900F3AEBC = {
 			isa = PBXGroup;
 			children = (
-				CB4421F218ED48A900F3AEBC /* appWalletsdemo2 */,
-				CB44221118ED48A900F3AEBC /* appWalletsdemo2Tests */,
+				CB4421F218ED48A900F3AEBC /* appWallets-iOS-sdk-demo */,
+				CB44221118ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests */,
 				CB4421EB18ED48A900F3AEBC /* Frameworks */,
 				CB4421EA18ED48A900F3AEBC /* Products */,
 			);
@@ -103,8 +103,8 @@
 		CB4421EA18ED48A900F3AEBC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CB4421E918ED48A900F3AEBC /* appWalletsdemo2.app */,
-				CB44220A18ED48A900F3AEBC /* appWalletsdemo2Tests.xctest */,
+				CB4421E918ED48A900F3AEBC /* appWallets-iOS-sdk-demo.app */,
+				CB44220A18ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,7 +123,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		CB4421F218ED48A900F3AEBC /* appWalletsdemo2 */ = {
+		CB4421F218ED48A900F3AEBC /* appWallets-iOS-sdk-demo */ = {
 			isa = PBXGroup;
 			children = (
 				CBD25FBA1908A84800E70DFE /* libappwalletsSDK.a */,
@@ -136,33 +136,34 @@
 				CB44220418ED48A900F3AEBC /* Images.xcassets */,
 				CB4421F318ED48A900F3AEBC /* Supporting Files */,
 			);
-			path = appWalletsdemo2;
+			path = "appWallets-iOS-sdk-demo";
 			sourceTree = "<group>";
 		};
 		CB4421F318ED48A900F3AEBC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				CB4421F418ED48A900F3AEBC /* appWalletsdemo2-Info.plist */,
+				CB4421F418ED48A900F3AEBC /* appWallets-iOS-sdk-demo-Info.plist */,
 				CB4421F518ED48A900F3AEBC /* InfoPlist.strings */,
 				CB4421F818ED48A900F3AEBC /* main.m */,
-				CB4421FA18ED48A900F3AEBC /* appWalletsdemo2-Prefix.pch */,
+				CB4421FA18ED48A900F3AEBC /* appWallets-iOS-sdk-demo-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		CB44221118ED48A900F3AEBC /* appWalletsdemo2Tests */ = {
+		CB44221118ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests */ = {
 			isa = PBXGroup;
 			children = (
 				CB44221718ED48A900F3AEBC /* appWalletsdemo2Tests.m */,
 				CB44221218ED48A900F3AEBC /* Supporting Files */,
 			);
+			name = "appWallets-iOS-sdk-demoTests";
 			path = appWalletsdemo2Tests;
 			sourceTree = "<group>";
 		};
 		CB44221218ED48A900F3AEBC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				CB44221318ED48A900F3AEBC /* appWalletsdemo2Tests-Info.plist */,
+				CB44221318ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests-Info.plist */,
 				CB44221418ED48A900F3AEBC /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -171,9 +172,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CB4421E818ED48A900F3AEBC /* appWalletsdemo2 */ = {
+		CB4421E818ED48A900F3AEBC /* appWallets-iOS-sdk-demo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CB44221B18ED48A900F3AEBC /* Build configuration list for PBXNativeTarget "appWalletsdemo2" */;
+			buildConfigurationList = CB44221B18ED48A900F3AEBC /* Build configuration list for PBXNativeTarget "appWallets-iOS-sdk-demo" */;
 			buildPhases = (
 				CB4421E518ED48A900F3AEBC /* Sources */,
 				CB4421E618ED48A900F3AEBC /* Frameworks */,
@@ -183,14 +184,14 @@
 			);
 			dependencies = (
 			);
-			name = appWalletsdemo2;
+			name = "appWallets-iOS-sdk-demo";
 			productName = appWalletsdemo2;
-			productReference = CB4421E918ED48A900F3AEBC /* appWalletsdemo2.app */;
+			productReference = CB4421E918ED48A900F3AEBC /* appWallets-iOS-sdk-demo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		CB44220918ED48A900F3AEBC /* appWalletsdemo2Tests */ = {
+		CB44220918ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CB44221E18ED48A900F3AEBC /* Build configuration list for PBXNativeTarget "appWalletsdemo2Tests" */;
+			buildConfigurationList = CB44221E18ED48A900F3AEBC /* Build configuration list for PBXNativeTarget "appWallets-iOS-sdk-demoTests" */;
 			buildPhases = (
 				CB44220618ED48A900F3AEBC /* Sources */,
 				CB44220718ED48A900F3AEBC /* Frameworks */,
@@ -201,9 +202,9 @@
 			dependencies = (
 				CB44221018ED48A900F3AEBC /* PBXTargetDependency */,
 			);
-			name = appWalletsdemo2Tests;
+			name = "appWallets-iOS-sdk-demoTests";
 			productName = appWalletsdemo2Tests;
-			productReference = CB44220A18ED48A900F3AEBC /* appWalletsdemo2Tests.xctest */;
+			productReference = CB44220A18ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -220,7 +221,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CB4421E418ED48A900F3AEBC /* Build configuration list for PBXProject "appWalletsdemo2" */;
+			buildConfigurationList = CB4421E418ED48A900F3AEBC /* Build configuration list for PBXProject "appWallets-iOS-sdk-demo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -233,8 +234,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CB4421E818ED48A900F3AEBC /* appWalletsdemo2 */,
-				CB44220918ED48A900F3AEBC /* appWalletsdemo2Tests */,
+				CB4421E818ED48A900F3AEBC /* appWallets-iOS-sdk-demo */,
+				CB44220918ED48A900F3AEBC /* appWallets-iOS-sdk-demoTests */,
 			);
 		};
 /* End PBXProject section */
@@ -284,7 +285,7 @@
 /* Begin PBXTargetDependency section */
 		CB44221018ED48A900F3AEBC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CB4421E818ED48A900F3AEBC /* appWalletsdemo2 */;
+			target = CB4421E818ED48A900F3AEBC /* appWallets-iOS-sdk-demo */;
 			targetProxy = CB44220F18ED48A900F3AEBC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -394,14 +395,14 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "appWalletsdemo2/appWalletsdemo2-Prefix.pch";
-				INFOPLIST_FILE = "appWalletsdemo2/appWalletsdemo2-Info.plist";
+				GCC_PREFIX_HEADER = "appWallets-iOS-sdk-demo/appWallets-iOS-sdk-demo-Prefix.pch";
+				INFOPLIST_FILE = "appWallets-iOS-sdk-demo/appWallets-iOS-sdk-demo-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/appWalletsdemo2",
+					"$(PROJECT_DIR)/appWallets-iOS-sdk-demo",
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "appWallets-iOS-sdk-demo";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -413,14 +414,14 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "appWalletsdemo2/appWalletsdemo2-Prefix.pch";
-				INFOPLIST_FILE = "appWalletsdemo2/appWalletsdemo2-Info.plist";
+				GCC_PREFIX_HEADER = "appWallets-iOS-sdk-demo/appWallets-iOS-sdk-demo-Prefix.pch";
+				INFOPLIST_FILE = "appWallets-iOS-sdk-demo/appWallets-iOS-sdk-demo-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/appWalletsdemo2",
+					"$(PROJECT_DIR)/appWallets-iOS-sdk-demo",
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "appWallets-iOS-sdk-demo";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -440,8 +441,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "appWalletsdemo2Tests/appWalletsdemo2Tests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "appWalletsdemo2Tests/appWallets-iOS-sdk-demoTests-Info.plist";
+				PRODUCT_NAME = "appWallets-iOS-sdk-demoTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -458,8 +459,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "appWalletsdemo2/appWalletsdemo2-Prefix.pch";
-				INFOPLIST_FILE = "appWalletsdemo2Tests/appWalletsdemo2Tests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "appWalletsdemo2Tests/appWallets-iOS-sdk-demoTests-Info.plist";
+				PRODUCT_NAME = "appWallets-iOS-sdk-demoTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -468,7 +469,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CB4421E418ED48A900F3AEBC /* Build configuration list for PBXProject "appWalletsdemo2" */ = {
+		CB4421E418ED48A900F3AEBC /* Build configuration list for PBXProject "appWallets-iOS-sdk-demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB44221918ED48A900F3AEBC /* Debug */,
@@ -477,7 +478,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CB44221B18ED48A900F3AEBC /* Build configuration list for PBXNativeTarget "appWalletsdemo2" */ = {
+		CB44221B18ED48A900F3AEBC /* Build configuration list for PBXNativeTarget "appWallets-iOS-sdk-demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB44221C18ED48A900F3AEBC /* Debug */,
@@ -486,7 +487,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CB44221E18ED48A900F3AEBC /* Build configuration list for PBXNativeTarget "appWalletsdemo2Tests" */ = {
+		CB44221E18ED48A900F3AEBC /* Build configuration list for PBXNativeTarget "appWallets-iOS-sdk-demoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB44221F18ED48A900F3AEBC /* Debug */,

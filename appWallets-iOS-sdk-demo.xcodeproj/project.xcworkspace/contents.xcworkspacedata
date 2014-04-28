@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:appWalletsdemo2.xcodeproj">
+      location = "self:appWallets-iOS-sdk-demo.xcodeproj">
    </FileRef>
 </Workspace>

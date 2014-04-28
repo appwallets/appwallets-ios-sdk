@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB4421E818ED48A900F3AEBC"
                BuildableName = "appWalletsdemo2.app"
-               BlueprintName = "appWalletsdemo2"
-               ReferencedContainer = "container:appWalletsdemo2.xcodeproj">
+               BlueprintName = "appWallets-iOS-sdk-demo"
+               ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB44220918ED48A900F3AEBC"
                BuildableName = "appWalletsdemo2Tests.xctest"
-               BlueprintName = "appWalletsdemo2Tests"
-               ReferencedContainer = "container:appWalletsdemo2.xcodeproj">
+               BlueprintName = "appWallets-iOS-sdk-demoTests"
+               ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB4421E818ED48A900F3AEBC"
             BuildableName = "appWalletsdemo2.app"
-            BlueprintName = "appWalletsdemo2"
-            ReferencedContainer = "container:appWalletsdemo2.xcodeproj">
+            BlueprintName = "appWallets-iOS-sdk-demo"
+            ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB4421E818ED48A900F3AEBC"
             BuildableName = "appWalletsdemo2.app"
-            BlueprintName = "appWalletsdemo2"
-            ReferencedContainer = "container:appWalletsdemo2.xcodeproj">
+            BlueprintName = "appWallets-iOS-sdk-demo"
+            ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB4421E818ED48A900F3AEBC"
             BuildableName = "appWalletsdemo2.app"
-            BlueprintName = "appWalletsdemo2"
-            ReferencedContainer = "container:appWalletsdemo2.xcodeproj">
+            BlueprintName = "appWallets-iOS-sdk-demo"
+            ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
