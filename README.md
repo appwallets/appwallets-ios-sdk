@@ -1,19 +1,24 @@
-appWallets-iOS-sdk-demo
+appWallets-ios-sdk
 =======================
 
-download appWallets-iOS-sdk-demo
+appWallets-ios-sdk see (http://www.appwallets.com/) for more information.
 
-  copy `libappwalletsSDK.a` , `AppwalletsClient.h` files into your own project.
+##Requirements
+- iOS >= 5.0
+- ARC enabled
+
+
+##Installation
+
+- copy `libappwalletsSDK.a` , `AppwalletsClient.h` files into your own project.
+- add `MediaPlayerframework`,`AdSupport.framework` into your project.
   
   
-Usage
+Usage examples
 --
+
   
-  add MediaPlayerframework,AdSupport.framework into your project.
-  
-  
-  
-  ```javascript
+```objc
   #import "AppwalletsClient.h"
   ...
   
@@ -21,5 +26,5 @@ Usage
     [client presentWalletsWithBarStyle:UIBarStyleDefault];
 
   
-  ```
+```
   
