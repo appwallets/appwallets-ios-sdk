@@ -1,7 +1,7 @@
-appWallets-ios-sdk
+appwallets-ios-sdk
 =======================
 
-appWallets-ios-sdk see (http://www.appwallets.com/) for more information.
+appwallets-ios-sdk see (http://www.appwallets.com/) for more information.
 
 ##Requirements
 - iOS >= 5.0
