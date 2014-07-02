@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB4421E818ED48A900F3AEBC"
-               BuildableName = "appWalletsdemo2.app"
+               BuildableName = "appWallets-iOS-sdk-demo.app"
                BlueprintName = "appWallets-iOS-sdk-demo"
                ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB44220918ED48A900F3AEBC"
-               BuildableName = "appWalletsdemo2Tests.xctest"
+               BuildableName = "appWallets-iOS-sdk-demoTests.xctest"
                BlueprintName = "appWallets-iOS-sdk-demoTests"
                ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB4421E818ED48A900F3AEBC"
-            BuildableName = "appWalletsdemo2.app"
+            BuildableName = "appWallets-iOS-sdk-demo.app"
             BlueprintName = "appWallets-iOS-sdk-demo"
             ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB4421E818ED48A900F3AEBC"
-            BuildableName = "appWalletsdemo2.app"
+            BuildableName = "appWallets-iOS-sdk-demo.app"
             BlueprintName = "appWallets-iOS-sdk-demo"
             ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB4421E818ED48A900F3AEBC"
-            BuildableName = "appWalletsdemo2.app"
+            BuildableName = "appWallets-iOS-sdk-demo.app"
             BlueprintName = "appWallets-iOS-sdk-demo"
             ReferencedContainer = "container:appWallets-iOS-sdk-demo.xcodeproj">
          </BuildableReference>

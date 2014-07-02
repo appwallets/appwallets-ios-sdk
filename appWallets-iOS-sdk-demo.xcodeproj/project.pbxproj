@@ -24,6 +24,7 @@
 		CB44222518ED49A000F3AEBC /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB44222418ED49A000F3AEBC /* AdSupport.framework */; };
 		CB44222B18ED4AD500F3AEBC /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB44222A18ED4AD500F3AEBC /* MediaPlayer.framework */; };
 		CBD25FBB1908A84800E70DFE /* libappwalletsSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CBD25FBA1908A84800E70DFE /* libappwalletsSDK.a */; };
+		CBF072B41963E823002238FE /* libappwalletsSDK_noidfa.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CBF072B31963E823002238FE /* libappwalletsSDK_noidfa.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		CB44222618ED49A700F3AEBC /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		CB44222A18ED4AD500F3AEBC /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		CBD25FBA1908A84800E70DFE /* libappwalletsSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libappwalletsSDK.a; sourceTree = "<group>"; };
+		CBF072B31963E823002238FE /* libappwalletsSDK_noidfa.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libappwalletsSDK_noidfa.a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB44222B18ED4AD500F3AEBC /* MediaPlayer.framework in Frameworks */,
+				CBF072B41963E823002238FE /* libappwalletsSDK_noidfa.a in Frameworks */,
 				CB44222518ED49A000F3AEBC /* AdSupport.framework in Frameworks */,
 				CB4421EF18ED48A900F3AEBC /* CoreGraphics.framework in Frameworks */,
 				CBD25FBB1908A84800E70DFE /* libappwalletsSDK.a in Frameworks */,
@@ -126,6 +129,7 @@
 		CB4421F218ED48A900F3AEBC /* appWallets-iOS-sdk-demo */ = {
 			isa = PBXGroup;
 			children = (
+				CBF072B31963E823002238FE /* libappwalletsSDK_noidfa.a */,
 				CBD25FBA1908A84800E70DFE /* libappwalletsSDK.a */,
 				CB44222218ED48F700F3AEBC /* AppwalletsClient.h */,
 				CB4421FB18ED48A900F3AEBC /* AppDelegate.h */,
